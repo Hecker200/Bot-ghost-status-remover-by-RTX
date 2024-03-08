@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["TBG 🎮","We are the better gamers 💫","Purplegod 🐥"];
+const statusMessages = ["Clucktopia 🐔","RedFoxSocks","Purplegod","Im aj im sad","pmmj","MSC","OBUSSIN","foxzoom7","WE ARE CLUCKTOPIA!! 🐔"];
 
 
 let currentIndex = 0;
