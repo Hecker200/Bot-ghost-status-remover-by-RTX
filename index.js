@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Clucktopia 🐔","RedFoxSocks","Purplegod","Im aj im sad","pmmj","MSC","OBUSSIN","foxzoom7","WE ARE CLUCKTOPIA!! 🐔"];
+const statusMessages = ["Orbiting around OBUSSIN 💫"];
 
 
 let currentIndex = 0;
